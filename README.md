@@ -49,4 +49,4 @@ In addition to executing the pick and place task, the `main.m` script also runs 
 
 Please make sure to maintain the folder structure and file naming conventions as specified to ensure smooth execution and compatibility.
 
-For any questions or issues, feel free to contact [Your Contact Information].
+For any questions or issues, feel free to contact lambamanvir@gmail.com.
